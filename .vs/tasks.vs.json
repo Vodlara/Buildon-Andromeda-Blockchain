@@ -10,6 +10,11 @@
       "taskLabel": "task-Buildon-Andromeda-Blockchain",
       "appliesTo": "/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-node_modules",
+      "appliesTo": "node_modules/",
+      "type": "launch"
     }
   ]
 }
