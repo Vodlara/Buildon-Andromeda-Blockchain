@@ -1,38 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Andromeda Blockchain Workshop Project
+Welcome to the Andromeda Blockchain Workshop Project, an innovative venture that utilizes the Andromeda protocol to demonstrate various blockchain functionalities. This project includes several assets and deployable contracts that highlight the practical applications of decentralized finance (DeFi), token exchange, crowdfunding, and event ticketing on the blockchain.
 
-## Getting Started
+📂 Project Components
+1-Andeomedacoin
+Description: A token exchange interface to buy AndromedaCoin.
+URL: Aco-Exchange
+https://embeddables.testnet.andromedaprotocol.io/galileo-4/Aco-Echange
 
-First, run the development server:
+2-Crowdfund-Andromeda
+Description: A crowdfunding platform deployed on the Andromeda blockchain.
+URL: Crowdfund-Andromeda
+https://embeddables.testnet.andromedaprotocol.io/galileo-4/Crowdfund-Andromeda
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+3-Tickets to Events
+Description: A ticketing system that enables users to purchase and manage event tickets.
+URL: Tickets
+https://embeddables.testnet.andromedaprotocol.io/galileo-4/Tickets
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Andromeda Auction
+Description: A decentralized auction platform for bidding and exchanging assets.
+URL: Andromeda Auction
+https://embeddables.testnet.andromedaprotocol.io/galileo-4/andromeda-auction
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+📈 Assets Overview
+This project also includes various app contracts that power the Andromeda blockchain functionality. 
+The assets are deployed on the testnet and can be accessed and tested for educational purposes. 
+Check the attached images for a detailed view of the assets and embeddables created as part of this project.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## Licensing
-
-[Terms and Conditions](https://github.com/andromedaprotocol/andromeda-core/blob/development/LICENSE/LICENSE.md)
+⚙️ How to Use
+Visit the links provided for each component to explore the functionality.
+Interact with the contracts using the Andromeda interface to understand how each module works on the blockchain.
+Developers can explore and modify these components to build customized DeFi applications.
