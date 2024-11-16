@@ -51,15 +51,15 @@ Steps
 Clone the Repository
 
 bash
-نسخ الكود
+
 git clone https://github.com/Vodlara/andromeda-workshop.git  
 cd andromeda-workshop  
 Install Dependencies
 
 bash
-نسخ الكود
+
 npm install  
-# Or, if using yarn  
+# Or, if using yarn   
 yarn install  
 Configure Environment Variables
 
@@ -68,14 +68,13 @@ Add your Andromeda testnet keys and other configuration settings.
 Start Development Server
 
 bash
-نسخ الكود
 npm run dev  
 Deploy to Andromeda Testnet
 
 Use the provided deployment scripts in the scripts/ folder.
 Example:
 bash
-نسخ الكود
+
 npm run deploy  
 Access Embeddable Links
 
